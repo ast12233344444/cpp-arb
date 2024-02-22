@@ -1,0 +1,348 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/CMakeFiles/3.26.4/CMakeSystem.cmake"
+		},
+		{
+			"path" : "conan_provider.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/CMakeFiles/3.26.4/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/BoostConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/BoostConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/BoostTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/Boost-relwithdebinfo-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/Boost-Target-relwithdebinfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/ZLIBConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/ZLIBConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/ZLIBTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/ZLIB-relwithdebinfo-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/ZLIB-Target-relwithdebinfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/BZip2ConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/BZip2Config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/BZip2Targets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/BZip2-relwithdebinfo-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/BZip2-Target-relwithdebinfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/ast12/.conan2/p/b/bzip21e4259c49fdc9/p/lib/cmake/conan-official-bzip2-variables.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/ixwebsocket-config-version.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/ixwebsocket-config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/ixwebsocketTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/ixwebsocket-relwithdebinfo-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/ixwebsocket-Target-relwithdebinfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/MbedTLSConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/MbedTLSConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/MbedTLSTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/MbedTLS-relwithdebinfo-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/MbedTLS-Target-relwithdebinfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/OpenSSLConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/OpenSSLConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/OpenSSLTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/OpenSSL-relwithdebinfo-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-relwithdebinfo/conan/build/RelWithDebInfo/generators/OpenSSL-Target-relwithdebinfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/ast12/.conan2/p/b/opensba3c0e70195fe/p/lib/cmake/conan-official-openssl-variables.cmake"
+		},
+		{
+			"path" : "conanfile.py"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/ast12/CLionProjects/extpr/cmake-build-relwithdebinfo",
+		"source" : "C:/Users/ast12/CLionProjects/extpr"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

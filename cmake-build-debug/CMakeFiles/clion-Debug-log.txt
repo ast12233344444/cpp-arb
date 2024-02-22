@@ -1,0 +1,187 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -DCMAKE_PROJECT_TOP_LEVEL_INCLUDES=conan_provider.cmake -G Ninja -S C:\Users\ast12\CLionProjects\extpr -B C:\Users\ast12\CLionProjects\extpr\cmake-build-debug
+-- CMake-Conan: first find_package() found. Installing dependencies with Conan
+-- CMake-Conan: Checking if a default profile exists
+C:\Users\ast12\.conan2\profiles\default
+-- CMake-Conan: cmake_system_name=Windows
+-- CMake-Conan: cmake_system_processor=x86_64
+-- CMake-Conan: CMake compiler=MSVC
+-- CMake-Conan: CMake compiler version=19.37.32824.0
+-- CMake-Conan: CMake compiler.runtime=dynamic
+-- CMake-Conan: [settings] compiler=msvc
+-- CMake-Conan: [settings] compiler.version=193
+-- CMake-Conan: [settings] compiler.runtime=dynamic
+-- CMake-Conan: Creating profile C:/Users/ast12/CLionProjects/extpr/cmake-build-debug/conan_host_profile
+-- CMake-Conan: Profile: 
+[settings]
+arch=x86_64
+os=Windows
+compiler=msvc
+compiler.version=193
+compiler.runtime=dynamic
+compiler.cppstd=17
+build_type=Debug
+[conf]
+tools.cmake.cmaketoolchain:generator=Ninja
+tools.build:compiler_executables={"c":"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.37.32822/bin/Hostx64/x64/cl.exe","cpp":"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.37.32822/bin/Hostx64/x64/cl.exe"}
+
+-- CMake-Conan: Installing single configuration Debug
+-- CMake-Conan: conan install C:/Users/ast12/CLionProjects/extpr -of=C:/Users/ast12/CLionProjects/extpr/cmake-build-debug/conan --profile:host=default;--profile:host=C:/Users/ast12/CLionProjects/extpr/cmake-build-debug/conan_host_profile;--profile:build=default;--build=missing
+
+======== Input profiles ========
+Profile host:
+[settings]
+arch=x86_64
+build_type=Debug
+compiler=msvc
+compiler.cppstd=17
+compiler.runtime=dynamic
+compiler.runtime_type=Debug
+compiler.version=193
+os=Windows
+[conf]
+tools.build:compiler_executables={'c': 'C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.37.32822/bin/Hostx64/x64/cl.exe', 'cpp': 'C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.37.32822/bin/Hostx64/x64/cl.exe'}
+tools.cmake.cmaketoolchain:generator=Ninja
+
+Profile build:
+[settings]
+arch=x86_64
+build_type=Release
+compiler=msvc
+compiler.cppstd=14
+compiler.runtime=dynamic
+compiler.runtime_type=Release
+compiler.version=193
+os=Windows
+
+
+======== Computing dependency graph ========
+Graph root
+    conanfile.py: C:/Users/ast12/CLionProjects/extpr\conanfile.py
+Requirements
+    boost/1.84.0#695713218cdeec6aef61de1f34bf57ee - Cache
+    bzip2/1.0.8#457c272f7da34cb9c67456dd217d36c4 - Cache
+    ixwebsocket/11.4.3#cc7779c85cb2d9409bc4276bcc54b870 - Cache
+    mbedtls/2.25.0#dc08c91085a98165335f2ee2dfc49e61 - Cache
+    openssl/3.2.0#30b857fa0927b5917fe3463c8c0ba38f - Cache
+    zlib/1.3.1#af8f2ef3d8e0fddf1975281d7fe43bf6 - Cache
+Build requirements
+    b2/4.10.1#1b290403d8648c79f468f5a6496f829a - Cache
+    nasm/2.15.05#058c93b2214a49ca1cfe9f8f26205568 - Cache
+    strawberryperl/5.32.1.1#8f83d05a60363a422f9033e52d106b47 - Cache
+Resolved version ranges
+    zlib/[>=1.2.11 <2]: zlib/1.3.1
+
+======== Computing necessary packages ========
+Requirements
+    boost/1.84.0#695713218cdeec6aef61de1f34bf57ee:4ef917d22f67ae94202cc6f03f8f6b47a0054996#7f713b10ebeea5b1bd01209e61a14f5d - Cache
+    bzip2/1.0.8#457c272f7da34cb9c67456dd217d36c4:7bde698069de06159da4d4f7bb174ecdafdbc48b#662ec8a795e5d27a2cb7655ee8ca2e67 - Cache
+    ixwebsocket/11.4.3#cc7779c85cb2d9409bc4276bcc54b870:202994ba5d26d03a8f783dfc53995883eb39a6a7#0be48ff98e591285cb6ffbc1067165c8 - Cache
+    mbedtls/2.25.0#dc08c91085a98165335f2ee2dfc49e61:c832708304b0229748a019017a1042ebceb517fb#0cd0af7389dfdab2b0ad505de3a66d83 - Cache
+    openssl/3.2.0#30b857fa0927b5917fe3463c8c0ba38f:a49d24f28a14e80e9ca3ec009ce5811564280f72#498656fca1fa3906cfe2ea4174321eb2 - Cache
+    zlib/1.3.1#af8f2ef3d8e0fddf1975281d7fe43bf6:ed44dacde2751b398e4bf9441ff992a70c913c00#de3e850f5bc8e2b2446564dbea2fad7c - Cache
+Build requirements
+Skipped binaries
+    b2/4.10.1, nasm/2.15.05, strawberryperl/5.32.1.1
+
+======== Installing packages ========
+bzip2/1.0.8: Already installed! (1 of 6)
+zlib/1.3.1: Already installed! (2 of 6)
+boost/1.84.0: Already installed! (3 of 6)
+boost/1.84.0: Disabled magic autolinking (smart and magic decisions)
+mbedtls/2.25.0: Already installed! (4 of 6)
+openssl/3.2.0: Already installed! (5 of 6)
+ixwebsocket/11.4.3: Already installed! (6 of 6)
+WARN: deprecated: Usage of deprecated Conan 1.X features that will be removed in Conan 2.X:
+WARN: deprecated:     'cpp_info.names' used in: boost/1.84.0, bzip2/1.0.8, mbedtls/2.25.0, zlib/1.3.1, openssl/3.2.0
+WARN: deprecated:     'cpp_info.build_modules' used in: openssl/3.2.0, bzip2/1.0.8
+WARN: deprecated:     'env_info' used in: openssl/3.2.0, boost/1.84.0, bzip2/1.0.8
+WARN: deprecated:     'cpp_info.filenames' used in: boost/1.84.0
+WARN: deprecated:     'user_info' used in: boost/1.84.0
+
+======== Finalizing install (deploy, generators) ========
+conanfile.py: Writing generators to C:\Users\ast12\CLionProjects\extpr\cmake-build-debug\conan\build\Debug\generators
+conanfile.py: Generator 'CMakeDeps' calling 'generate()'
+conanfile.py: CMakeDeps necessary find_package() and targets for your CMakeLists.txt
+    find_package(ixwebsocket)
+    find_package(OpenSSL)
+    find_package(Boost)
+    target_link_libraries(... ixwebsocket::ixwebsocket openssl::openssl boost::boost)
+conanfile.py: Calling generate()
+conanfile.py: Generators folder: C:\Users\ast12\CLionProjects\extpr\cmake-build-debug\conan\build\Debug\generators
+conanfile.py: CMakeToolchain generated: conan_toolchain.cmake
+conanfile.py: Preset 'conan-debug' added to CMakePresets.json. Invoke it manually using 'cmake --preset conan-debug' if using CMake>=3.23
+conanfile.py: If your CMake version is not compatible with CMakePresets (<3.23) call cmake like: 'cmake <path> -G Ninja -DCMAKE_TOOLCHAIN_FILE=C:\Users\ast12\CLionProjects\extpr\cmake-build-debug\conan\build\Debug\generators\conan_toolchain.cmake -DCMAKE_POLICY_DEFAULT_CMP0091=NEW -DCMAKE_BUILD_TYPE=Debug'
+conanfile.py: CMakeToolchain generated: CMakePresets.json
+conanfile.py: Generating aggregated env files
+conanfile.py: Generated aggregated env files: ['conanbuild.bat', 'conanrun.bat']
+Install finished successfully
+-- CMake-Conan: CONAN_GENERATORS_FOLDER=C:/Users/ast12/CLionProjects/extpr/cmake-build-debug/conan/build/Debug/generators
+-- CMake-Conan: CONANFILE=C:/Users/ast12/CLionProjects/extpr/conanfile.py
+-- Conan: Component target declared 'Boost::diagnostic_definitions'
+-- Conan: Component target declared 'Boost::disable_autolinking'
+-- Conan: Component target declared 'Boost::dynamic_linking'
+-- Conan: Component target declared 'Boost::headers'
+-- Conan: Component target declared 'Boost::boost'
+-- Conan: Component target declared 'boost::_libboost'
+-- Conan: Component target declared 'Boost::atomic'
+-- Conan: Component target declared 'Boost::container'
+-- Conan: Component target declared 'Boost::context'
+-- Conan: Component target declared 'Boost::date_time'
+-- Conan: Component target declared 'Boost::exception'
+-- Conan: Component target declared 'Boost::math'
+-- Conan: Component target declared 'Boost::math_c99'
+-- Conan: Component target declared 'Boost::math_c99f'
+-- Conan: Component target declared 'Boost::math_c99l'
+-- Conan: Component target declared 'Boost::math_tr1'
+-- Conan: Component target declared 'Boost::math_tr1f'
+-- Conan: Component target declared 'Boost::math_tr1l'
+-- Conan: Component target declared 'Boost::program_options'
+-- Conan: Component target declared 'Boost::regex'
+-- Conan: Component target declared 'Boost::serialization'
+-- Conan: Component target declared 'Boost::stacktrace'
+-- Conan: Component target declared 'Boost::stacktrace_noop'
+-- Conan: Component target declared 'Boost::stacktrace_windbg'
+-- Conan: Component target declared 'Boost::stacktrace_windbg_cached'
+-- Conan: Component target declared 'Boost::system'
+-- Conan: Component target declared 'Boost::test'
+-- Conan: Component target declared 'Boost::test_exec_monitor'
+-- Conan: Component target declared 'Boost::timer'
+-- Conan: Component target declared 'Boost::url'
+-- Conan: Component target declared 'Boost::wserialization'
+-- Conan: Component target declared 'Boost::chrono'
+-- Conan: Component target declared 'Boost::coroutine'
+-- Conan: Component target declared 'Boost::filesystem'
+-- Conan: Component target declared 'Boost::json'
+-- Conan: Component target declared 'Boost::nowide'
+-- Conan: Component target declared 'Boost::prg_exec_monitor'
+-- Conan: Component target declared 'Boost::random'
+-- Conan: Component target declared 'Boost::thread'
+-- Conan: Component target declared 'Boost::type_erasure'
+-- Conan: Component target declared 'Boost::unit_test_framework'
+-- Conan: Component target declared 'Boost::wave'
+-- Conan: Component target declared 'Boost::contract'
+-- Conan: Component target declared 'Boost::graph'
+-- Conan: Component target declared 'Boost::iostreams'
+-- Conan: Component target declared 'Boost::locale'
+-- Conan: Component target declared 'Boost::log'
+-- Conan: Component target declared 'Boost::log_setup'
+-- Conan: Target declared 'boost::boost'
+-- CMake-Conan: find_package(ZLIB) found, 'conan install' already ran
+-- Conan: Target declared 'ZLIB::ZLIB'
+-- CMake-Conan: find_package(BZip2) found, 'conan install' already ran
+-- Conan: Target declared 'BZip2::BZip2'
+-- Conan: Including build module from 'C:/Users/ast12/.conan2/p/b/bzip27bb92af69f6f9/p/lib/cmake/conan-official-bzip2-variables.cmake'
+-- CMake-Conan: find_package(ixwebsocket) found, 'conan install' already ran
+-- Conan: Target declared 'ixwebsocket::ixwebsocket'
+-- CMake-Conan: find_package(MbedTLS) found, 'conan install' already ran
+-- Conan: Component target declared 'MbedTLS::mbedcrypto'
+-- Conan: Component target declared 'MbedTLS::mbedx509'
+-- Conan: Component target declared 'MbedTLS::mbedtls'
+-- CMake-Conan: find_package(OpenSSL) found, 'conan install' already ran
+-- Conan: Component target declared 'OpenSSL::Crypto'
+-- Conan: Component target declared 'OpenSSL::SSL'
+-- Conan: Target declared 'openssl::openssl'
+-- Conan: Including build module from 'C:/Users/ast12/.conan2/p/b/opens21e7b178aee5d/p/lib/cmake/conan-official-openssl-variables.cmake'
+-- Configuring done (1.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/ast12/CLionProjects/extpr/cmake-build-debug

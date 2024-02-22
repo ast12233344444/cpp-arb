@@ -1,0 +1,348 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake"
+		},
+		{
+			"path" : "conan_provider.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/BoostConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/BoostConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/BoostTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/Boost-debug-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/Boost-Target-debug.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/ZLIBConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/ZLIBConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/ZLIBTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/ZLIB-debug-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/ZLIB-Target-debug.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/BZip2ConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/BZip2Config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/BZip2Targets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/BZip2-debug-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/BZip2-Target-debug.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/ast12/.conan2/p/b/bzip27bb92af69f6f9/p/lib/cmake/conan-official-bzip2-variables.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/ixwebsocket-config-version.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/ixwebsocket-config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/ixwebsocketTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/ixwebsocket-debug-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/ixwebsocket-Target-debug.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/MbedTLSConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/MbedTLSConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/MbedTLSTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/MbedTLS-debug-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/MbedTLS-Target-debug.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/OpenSSLConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/OpenSSLConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/OpenSSLTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/OpenSSL-debug-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/conan/build/Debug/generators/OpenSSL-Target-debug.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/ast12/.conan2/p/b/opens21e7b178aee5d/p/lib/cmake/conan-official-openssl-variables.cmake"
+		},
+		{
+			"path" : "conanfile.py"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/ast12/CLionProjects/extpr/cmake-build-debug",
+		"source" : "C:/Users/ast12/CLionProjects/extpr"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

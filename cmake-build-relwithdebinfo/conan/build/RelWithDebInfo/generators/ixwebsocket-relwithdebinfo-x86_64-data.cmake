@@ -1,0 +1,49 @@
+########### AGGREGATED COMPONENTS AND DEPENDENCIES FOR THE MULTI CONFIG #####################
+#############################################################################################
+
+set(ixwebsocket_COMPONENT_NAMES "")
+list(APPEND ixwebsocket_FIND_DEPENDENCY_NAMES MbedTLS ZLIB)
+list(REMOVE_DUPLICATES ixwebsocket_FIND_DEPENDENCY_NAMES)
+set(MbedTLS_FIND_MODE "NO_MODULE")
+set(ZLIB_FIND_MODE "NO_MODULE")
+
+########### VARIABLES #######################################################################
+#############################################################################################
+set(ixwebsocket_PACKAGE_FOLDER_RELWITHDEBINFO "C:/Users/ast12/.conan2/p/b/ixweb1281cff447903/p")
+set(ixwebsocket_BUILD_MODULES_PATHS_RELWITHDEBINFO )
+
+
+set(ixwebsocket_INCLUDE_DIRS_RELWITHDEBINFO "${ixwebsocket_PACKAGE_FOLDER_RELWITHDEBINFO}/include")
+set(ixwebsocket_RES_DIRS_RELWITHDEBINFO )
+set(ixwebsocket_DEFINITIONS_RELWITHDEBINFO "-DIXWEBSOCKET_USE_ZLIB"
+			"-DIXWEBSOCKET_USE_MBED_TLS")
+set(ixwebsocket_SHARED_LINK_FLAGS_RELWITHDEBINFO )
+set(ixwebsocket_EXE_LINK_FLAGS_RELWITHDEBINFO )
+set(ixwebsocket_OBJECTS_RELWITHDEBINFO )
+set(ixwebsocket_COMPILE_DEFINITIONS_RELWITHDEBINFO "IXWEBSOCKET_USE_ZLIB"
+			"IXWEBSOCKET_USE_MBED_TLS")
+set(ixwebsocket_COMPILE_OPTIONS_C_RELWITHDEBINFO )
+set(ixwebsocket_COMPILE_OPTIONS_CXX_RELWITHDEBINFO )
+set(ixwebsocket_LIB_DIRS_RELWITHDEBINFO "${ixwebsocket_PACKAGE_FOLDER_RELWITHDEBINFO}/lib")
+set(ixwebsocket_BIN_DIRS_RELWITHDEBINFO )
+set(ixwebsocket_LIBRARY_TYPE_RELWITHDEBINFO STATIC)
+set(ixwebsocket_IS_HOST_WINDOWS_RELWITHDEBINFO 1)
+set(ixwebsocket_LIBS_RELWITHDEBINFO ixwebsocket)
+set(ixwebsocket_SYSTEM_LIBS_RELWITHDEBINFO wsock32 ws2_32 shlwapi crypt32)
+set(ixwebsocket_FRAMEWORK_DIRS_RELWITHDEBINFO )
+set(ixwebsocket_FRAMEWORKS_RELWITHDEBINFO )
+set(ixwebsocket_BUILD_DIRS_RELWITHDEBINFO )
+set(ixwebsocket_NO_SONAME_MODE_RELWITHDEBINFO FALSE)
+
+
+# COMPOUND VARIABLES
+set(ixwebsocket_COMPILE_OPTIONS_RELWITHDEBINFO
+    "$<$<COMPILE_LANGUAGE:CXX>:${ixwebsocket_COMPILE_OPTIONS_CXX_RELWITHDEBINFO}>"
+    "$<$<COMPILE_LANGUAGE:C>:${ixwebsocket_COMPILE_OPTIONS_C_RELWITHDEBINFO}>")
+set(ixwebsocket_LINKER_FLAGS_RELWITHDEBINFO
+    "$<$<STREQUAL:$<TARGET_PROPERTY:TYPE>,SHARED_LIBRARY>:${ixwebsocket_SHARED_LINK_FLAGS_RELWITHDEBINFO}>"
+    "$<$<STREQUAL:$<TARGET_PROPERTY:TYPE>,MODULE_LIBRARY>:${ixwebsocket_SHARED_LINK_FLAGS_RELWITHDEBINFO}>"
+    "$<$<STREQUAL:$<TARGET_PROPERTY:TYPE>,EXECUTABLE>:${ixwebsocket_EXE_LINK_FLAGS_RELWITHDEBINFO}>")
+
+
+set(ixwebsocket_COMPONENTS_RELWITHDEBINFO )
